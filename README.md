@@ -1,5 +1,7 @@
 # What drives medical insurance charges?
 
+[![notebook](https://github.com/Sammyjoseph999/insurance-charges/actions/workflows/notebook.yml/badge.svg)](https://github.com/Sammyjoseph999/insurance-charges/actions/workflows/notebook.yml)
+
 An analysis of annual medical charges for 1,338 insurance policyholders, and a comparison of three models for predicting them. The main result is that one well-chosen interaction term makes a simple, explainable model more accurate than tuned gradient boosting.
 
 <img src="images/age_bmi.png" alt="Charges by age and by BMI, coloured by smoking status" width="900">
