@@ -43,3 +43,7 @@ jupyter notebook notebook.ipynb
 ## Limits
 
 This is a small teaching dataset with no information on existing conditions or plan type. The BMI threshold of 30 was chosen after looking at the data; it is the standard clinical definition of obesity, but the result should be confirmed on other data.
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
